@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Exploring the Mountains",
+      "datetime": "July 17, 2024 8:39:45 PM",
+      "body": "\"Just got back from an amazing hiking trip in the Rockies! The views were breathtaking, and the experience was unforgettable. Can't wait for the next adventure! 🏔️ #NatureLover #MountainLife\""
+    },
+    {
+      "id": "2",
+      "title": "New Recipe Alert!",
+      "datetime": "July 17, 2024 8:40:40 PM",
+      "body": "\"Tried my hand at a new recipe today – Spaghetti Carbonara! It turned out delicious. Sharing the recipe so you all can enjoy it too. 🍝 #Foodie #HomeChef\""
+    },
+    {
+      "id": "3",
+      "title": "Tech Innovations",
+      "datetime": "July 17, 2024 8:41:05 PM",
+      "body": "\"Excited to share the latest tech trends from the annual TechCon! From AI advancements to groundbreaking gadgets, the future looks promising. #TechSavvy #Innovations\""
+    },
+    {
+      "id": "4",
+      "title": "Fitness Goals",
+      "datetime": "July 17, 2024 8:41:30 PM",
+      "body": "\"Achieved my fitness goal for the month! Feeling stronger and healthier. Remember, consistency is key. 💪 #FitnessJourney #StayHealthy\""
+    },
+    {
+      "id": "5",
+      "title": "Weekend Gateway",
+      "datetime": "July 18,2024 7:53:06 PM",
+      "body": "\"Had a relaxing weekend at the beach. The sound of waves and the sunset view were just what I needed. 🏖️ #BeachLife #WeekendVibes\""
+    },
+    {
+      "id": "51",
+      "title": "Sano",
+      "datetime": "July 18,2024 9:52:45 PM",
+      "body": "\"public class Example {\n    public static void main(String[] args) {\n        String hexdec = \"example\";\n\n        for (int i = 0; i < hexdec.length(); i++) {\n            // Perform operations with hexdec.charAt(i)\n            System.out.println(hexdec.charAt(i));\n        }\n    }\n}\"\n"
+    }
+  ]
+}
