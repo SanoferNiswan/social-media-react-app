@@ -9,7 +9,7 @@ const PostPage = ({ posts, handleDelete }) => {
       <article className='post'>
         {post ? (
           <>
-            <h2>{post.title}</h2>
+            <h2 className='ptitle'>{post.title}</h2>
             <p className='postDate'>{post.datetime}</p>
             <p className='postBody'>{post.body}</p>
             <Link to={`/edit/${post.id}`}>

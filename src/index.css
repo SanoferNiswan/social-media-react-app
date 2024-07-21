@@ -331,3 +331,7 @@ button {
 button:hover {
   background: linear-gradient(to right, #feb47b, #ff7e5f);
 }
+
+.ptitle{
+  color: #ff7e5f
+}
