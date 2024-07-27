@@ -1,4 +1,4 @@
-deployed site : https://sanoferniswan.github.io/social-media-react-app/
+# Deployed site : https://sanoferniswan.github.io/social-media-react-app/
 
 # Getting Started with Create React App
 
